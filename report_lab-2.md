@@ -62,3 +62,5 @@ binary_ip=$(IFS='.'; echo "${binary_ip[*]}")
 # Output the binary IP address
 echo "Binary format: $binary_ip"
 ```
+
+*Работу выполнил Миронов Иван Андреевич.*
